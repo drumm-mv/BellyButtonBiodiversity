@@ -8,5 +8,8 @@ Build an interactive dashboard to visualize the bacterial data for each voluntee
 - Software: HTML5, Bootstrap, Javascipt
 
 ## Results:
+Follow the link below to reach example site through GitHub pages.
+
+https://drumm-mv.github.io/BellyButtonBiodiversity/
 
 ![image_name](/resource/website_example.png)
